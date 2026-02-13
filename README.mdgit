@@ -1,0 +1,1 @@
+"# Phone-locker"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jazib078-developer/Phone-locker.gitgit push -u origin main

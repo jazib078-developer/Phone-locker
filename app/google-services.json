@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889287014518",
+    "project_id": "phonelockermdm",
+    "storage_bucket": "phonelockermdm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889287014518:android:d84f74047bb20a82d08757",
+        "android_client_info": {
+          "package_name": "com.example.phonelocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVhngOEGGmLcXzs_p3elAHbbW2Up56S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
